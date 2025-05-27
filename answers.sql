@@ -27,7 +27,7 @@ INSERT INTO Orders (OrderID, CustomerName) VALUES
 (103, 'Emily Clark');
 
 
-3
+
 CREATE TABLE OrderItems (
     OrderID INT,
     Product VARCHAR(100),
